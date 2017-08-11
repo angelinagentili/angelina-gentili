@@ -710,6 +710,9 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-right: 25px;
   font-size: 25px;
 }
+.fa{
+  font-size: 20px;
+  }
 .google-map {
   position: relative;
 }
