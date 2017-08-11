@@ -18,9 +18,6 @@ title: Angelina Gentili
 subtitle: "To complete"
 url: "http://angelinagentili.github.io" # the base hostname & protocol for your site
 baseurl: "" # Set this value to "" if you want your site to be root
-# baseurl: "http://angelinagentili.github.io/agentili"
-# cover: "/assets/cover.png"
-# logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
