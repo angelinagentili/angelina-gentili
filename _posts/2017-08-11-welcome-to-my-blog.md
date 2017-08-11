@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to jekyll!
+title: Welcome to my blog!
 subtitle: Just for testing
 author: Angelina Gentili
 ---
